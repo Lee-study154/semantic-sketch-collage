@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
+  <title id="title">semantic-sketch-collage workflow</title>
+  <desc id="desc">从照片事实到语义锚点、线稿跨界和编辑成品的四阶段流程图。</desc>
+  <rect width="1200" height="430" rx="28" fill="#111312"/>
+  <text x="58" y="58" fill="#B9B8AE" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="23" letter-spacing="1">FROM PHOTO FACTS TO EDITORIAL COLLAGE</text>
+  <text x="1040" y="58" fill="#B9B8AE" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="23">4 STAGES</text>
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC',sans-serif">
+    <g transform="translate(52 105)">
+      <rect width="252" height="246" rx="18" fill="#1C1E1D" stroke="#3F423E" stroke-width="2"/>
+      <rect width="252" height="10" rx="5" fill="#F06D50"/>
+      <text x="26" y="53" fill="#F06D50" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="21">01 / OBSERVE</text>
+      <text x="26" y="103" fill="#F5F2EA" font-size="29" font-weight="700">读照片事实</text>
+      <text x="26" y="142" fill="#B9B8AE" font-size="19">主体、动作、透视</text>
+      <text x="26" y="171" fill="#B9B8AE" font-size="19">光线与可见证据</text>
+      <text x="26" y="216" fill="#85867F" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="17">FACTS ONLY</text>
+    </g>
+    <path d="M321 228H349" stroke="#D0D0C8" stroke-width="3" marker-end="url(#arrow)"/>
+    <g transform="translate(346 105)">
+      <rect width="252" height="246" rx="18" fill="#1C1E1D" stroke="#3F423E" stroke-width="2"/>
+      <rect width="252" height="10" rx="5" fill="#3D6FF2"/>
+      <text x="26" y="53" fill="#7DA0FF" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="21">02 / ANCHOR</text>
+      <text x="26" y="103" fill="#F5F2EA" font-size="29" font-weight="700">找语义锚点</text>
+      <text x="26" y="142" fill="#B9B8AE" font-size="19">屋脊、手势、桌沿</text>
+      <text x="26" y="171" fill="#B9B8AE" font-size="19">同一对象的结构轴</text>
+      <text x="26" y="216" fill="#85867F" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="17">SOURCE -&gt; ANCHOR</text>
+    </g>
+    <path d="M615 228H643" stroke="#D0D0C8" stroke-width="3" marker-end="url(#arrow)"/>
+    <g transform="translate(640 105)">
+      <rect width="252" height="246" rx="18" fill="#1C1E1D" stroke="#3F423E" stroke-width="2"/>
+      <rect width="252" height="10" rx="5" fill="#A5F300"/>
+      <text x="26" y="53" fill="#A5F300" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="21">03 / EXTEND</text>
+      <text x="26" y="103" fill="#F5F2EA" font-size="29" font-weight="700">让线稿跨界</text>
+      <text x="26" y="142" fill="#B9B8AE" font-size="19">先在照片内接住轮廓</text>
+      <text x="26" y="171" fill="#B9B8AE" font-size="19">再以同尺度同透视延展</text>
+      <text x="26" y="216" fill="#85867F" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="17">ONE OBJECT / ONE AXIS</text>
+    </g>
+    <path d="M909 228H937" stroke="#D0D0C8" stroke-width="3" marker-end="url(#arrow)"/>
+    <g transform="translate(934 105)">
+      <rect width="214" height="246" rx="18" fill="#1C1E1D" stroke="#3F423E" stroke-width="2"/>
+      <rect width="214" height="10" rx="5" fill="#F3C94B"/>
+      <text x="22" y="53" fill="#F3C94B" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="21">04 / EDIT</text>
+      <text x="22" y="103" fill="#F5F2EA" font-size="29" font-weight="700">完成版式</text>
+      <text x="22" y="142" fill="#B9B8AE" font-size="19">纸面、文字、少量叠色</text>
+      <text x="22" y="171" fill="#B9B8AE" font-size="19">保留主体与留白</text>
+      <text x="22" y="216" fill="#85867F" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="17">EVIDENCE + FUNCTION</text>
+    </g>
+  </g>
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto">
+      <path d="M0 0L8 4L0 8Z" fill="#D0D0C8"/>
+    </marker>
+  </defs>
+</svg>

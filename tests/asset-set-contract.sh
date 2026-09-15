@@ -2,6 +2,7 @@
 set -eu
 
 skill_dir=$(CDPATH= cd -- "$(dirname -- "$0")/.." && pwd)
+# Keep the root asset set limited to the nine published finished works.
 assets_dir="$skill_dir/assets"
 
 expected=$(cat <<'EOF'

@@ -22,7 +22,7 @@ reject_text() {
 }
 
 require_text "$skill_dir/SKILL.md" "用户上传一张图片，图像工具就只能接收这一张"
-require_text "$skill_dir/references/visual-language.md" "Bundled references 只供内部分析"
+require_text "$skill_dir/references/visual-language.md" "Bundled works 只供内部分析"
 require_text "$skill_dir/references/prompt-and-quality.md" "图像输入集合必须严格等于用户为当前作品提供的图片集合"
 require_text "$skill_dir/references/prompt-and-quality.md" "不得通过改写、弱化或隐藏内容来绕过安全系统"
 require_text "$skill_dir/SKILL.md" "纸面是第一画布层"

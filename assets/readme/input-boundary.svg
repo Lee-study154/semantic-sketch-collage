@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Runtime image boundary</title>
+  <desc id="desc">图像工具只接收用户当前提供的照片，包内成品只被提炼为文字规则。</desc>
+  <rect width="1200" height="360" rx="28" fill="#F4F1E9"/>
+  <text x="52" y="55" fill="#65625D" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="21">RUNTIME IMAGE BOUNDARY</text>
+  <text x="958" y="55" fill="#65625D" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="21">INPUT = USER SET</text>
+
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC',sans-serif">
+    <g transform="translate(52 92)">
+      <rect width="290" height="112" rx="16" fill="#FCFBF7" stroke="#242624" stroke-width="2"/>
+      <circle cx="30" cy="32" r="10" fill="#3D6FF2"/>
+      <text x="52" y="38" fill="#77736D" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="18">CURRENT REQUEST</text>
+      <text x="28" y="79" fill="#171917" font-size="25" font-weight="700">用户提供的照片</text>
+      <text x="28" y="101" fill="#77736D" font-size="18">唯一允许的图片集合</text>
+    </g>
+    <path d="M362 148H454" stroke="#242624" stroke-width="3" marker-end="url(#arrow)"/>
+    <g transform="translate(468 92)">
+      <rect width="264" height="112" rx="16" fill="#111312"/>
+      <text x="28" y="39" fill="#9A9891" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="18">IMAGE TOOL</text>
+      <text x="28" y="77" fill="#F7F4EC" font-size="25" font-weight="700">严格等量输入</text>
+      <text x="28" y="100" fill="#B8B6AF" font-size="18">1 张进，就只接收 1 张</text>
+    </g>
+    <path d="M746 148H838" stroke="#242624" stroke-width="3" marker-end="url(#arrow)"/>
+    <g transform="translate(852 92)">
+      <rect width="296" height="112" rx="16" fill="#FCFBF7" stroke="#242624" stroke-width="2"/>
+      <circle cx="30" cy="32" r="10" fill="#A5F300"/>
+      <text x="52" y="38" fill="#77736D" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="18">DELIVERY</text>
+      <text x="28" y="79" fill="#171917" font-size="25" font-weight="700">独立编辑成品</text>
+      <text x="28" y="101" fill="#77736D" font-size="18">事实与主体保持可辨</text>
+    </g>
+
+    <g transform="translate(52 240)">
+      <rect width="290" height="76" rx="16" fill="#E9E5DC" stroke="#9D9890" stroke-width="2"/>
+      <text x="26" y="32" fill="#77736D" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="18">BUNDLED WORKS</text>
+      <text x="26" y="59" fill="#242624" font-size="21" font-weight="700">9 张成品资产</text>
+    </g>
+    <path d="M360 278H456" stroke="#F06D50" stroke-width="3" stroke-dasharray="10 9" marker-end="url(#blocked)"/>
+    <g transform="translate(468 240)">
+      <rect width="680" height="76" rx="16" fill="#FCFBF7" stroke="#F06D50" stroke-width="2"/>
+      <text x="28" y="31" fill="#F06D50" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="18">TEXT CUES ONLY / NEVER AN IMAGE PARAMETER</text>
+      <text x="28" y="59" fill="#242624" font-size="21" font-weight="700">只提炼构图、线条与交互规则，不上传到图像工具</text>
+    </g>
+  </g>
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto">
+      <path d="M0 0L8 4L0 8Z" fill="#242624"/>
+    </marker>
+    <marker id="blocked" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto">
+      <path d="M0 0L8 4L0 8Z" fill="#F06D50"/>
+    </marker>
+  </defs>
+</svg>

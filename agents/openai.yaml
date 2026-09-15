@@ -1,0 +1,5 @@
+interface:
+  display_name: "语义延展式手绘拼贴"
+  short_description: "将真实照片转化为线稿有来源、文字有逻辑的大胆实验手绘拼贴作品"
+  brand_color: "#171717"
+  default_prompt: "Use $semantic-sketch-collage to transform this supplied photo into a bold, source-grounded hand-drawn editorial collage."

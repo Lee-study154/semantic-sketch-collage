@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
   <title id="title">semantic-sketch-collage</title>
-  <desc id="desc">把照片事实转化为语义锚点明确的手绘编辑拼贴。</desc>
+  <desc id="desc">把照片事实转化为来源、锚点与构图功能明确的手绘编辑拼贴。</desc>
   <rect width="1200" height="420" rx="28" fill="#F4F1E9"/>
   <path d="M0 70H1200" stroke="#D6D0C5" stroke-width="2"/>
   <text x="52" y="45" fill="#66635E" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="20">PHOTO EDITORIAL SKILL</text>

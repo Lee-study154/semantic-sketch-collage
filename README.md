@@ -9,6 +9,7 @@
 
 <p align="center">
   <a href="#核心方法">核心方法</a> ·
+  <a href="#在线展示">在线展示</a> ·
   <a href="#快速开始">快速开始</a> ·
   <a href="#输入边界">输入边界</a> ·
   <a href="#包内容">包内容</a> ·
@@ -16,6 +17,11 @@
 </p>
 
 ---
+
+## 在线展示
+
+这是本 Skill 的交互式作品展示：
+[打开 VOX / 手绘线稿原图 3D 相册](https://lee-study154.github.io/vox-3d-photo-album/)
 
 ## 它做什么
 
